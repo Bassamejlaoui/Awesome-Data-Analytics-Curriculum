@@ -198,10 +198,9 @@ We believe in fostering a welcoming and inclusive community for all contributors
 By participating in our project, you agree to uphold these guidelines and contribute to creating a respectful and collaborative space for everyone. If you encounter any violations or have concerns, please report them to the project maintainers.
 
 Let's work together to maintain a community where everyone feels valued and supported in their learning journey.
-
-[Link to Code of Conduct]
-
 [Bassam Mejlaoui](https://github.com/Mejbass)
+
+
 ## Team
 
 [Bassam Mejlaoui](https://github.com/Mejbass)
