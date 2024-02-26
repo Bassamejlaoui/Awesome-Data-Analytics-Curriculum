@@ -201,8 +201,8 @@ Let's work together to maintain a community where everyone feels valued and supp
 
 [Link to Code of Conduct]
 
-![Bassam Mejlaoui](github.com/mejbass)
+[Bassam Mejlaoui](https://github.com/Mejbass)
 ## Team
 
-![Bassam Mejlaoui](github.com/mejbass)
+[Bassam Mejlaoui](https://github.com/Mejbass)
 
